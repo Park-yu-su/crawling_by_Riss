@@ -1,0 +1,17 @@
+1페이지에서는
+2~12까지
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[2] + 1
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[3]
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[4]
+...하다가
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[12] 클릭되면 다음 페이지 이동
+
+3~13까지
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[3] ... 
+
+/html/body/div[1]/div[2]/div[4]/div[2]/div/div[3]/a[8]
+
+
+
+맨 마지막에서는 3~..까지
+그 전에 해당 페이지에서 10까지 안 나오면 멈추기
